@@ -9,7 +9,7 @@ const PrimeNumberChecker = ({ number }) => {
         return true; 
     };
 
-    // Hello World
+    // Hello World , I am here .
     
     const primeStatus = isPrime(number) ? 'is a prime number' : 'is not a prime number';
 
