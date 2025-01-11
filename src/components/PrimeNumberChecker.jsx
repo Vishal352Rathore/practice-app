@@ -8,6 +8,8 @@ const PrimeNumberChecker = ({ number }) => {
         }
         return true; 
     };
+
+    // Hello World
     
     const primeStatus = isPrime(number) ? 'is a prime number' : 'is not a prime number';
 
