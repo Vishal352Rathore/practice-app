@@ -11,6 +11,7 @@ const SimpleForm = () => {
         setFormData((prevData) => ({...prevData,[name]: value,  }));
     };
 
+    // Simple form!
     return (
         <div style={{ padding: '20px' }}>
             <form>
